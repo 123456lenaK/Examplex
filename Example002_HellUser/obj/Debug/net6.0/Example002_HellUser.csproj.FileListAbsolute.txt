@@ -1,0 +1,15 @@
+C:\Users\lenak\Desktop\ИП\ПРОГРАММИРОВАНИЕ\Examlex\Example002_HellUser\bin\Debug\net6.0\Example002_HellUser.exe
+C:\Users\lenak\Desktop\ИП\ПРОГРАММИРОВАНИЕ\Examlex\Example002_HellUser\bin\Debug\net6.0\Example002_HellUser.deps.json
+C:\Users\lenak\Desktop\ИП\ПРОГРАММИРОВАНИЕ\Examlex\Example002_HellUser\bin\Debug\net6.0\Example002_HellUser.runtimeconfig.json
+C:\Users\lenak\Desktop\ИП\ПРОГРАММИРОВАНИЕ\Examlex\Example002_HellUser\bin\Debug\net6.0\Example002_HellUser.dll
+C:\Users\lenak\Desktop\ИП\ПРОГРАММИРОВАНИЕ\Examlex\Example002_HellUser\bin\Debug\net6.0\Example002_HellUser.pdb
+C:\Users\lenak\Desktop\ИП\ПРОГРАММИРОВАНИЕ\Examlex\Example002_HellUser\obj\Debug\net6.0\Example002_HellUser.csproj.AssemblyReference.cache
+C:\Users\lenak\Desktop\ИП\ПРОГРАММИРОВАНИЕ\Examlex\Example002_HellUser\obj\Debug\net6.0\Example002_HellUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenak\Desktop\ИП\ПРОГРАММИРОВАНИЕ\Examlex\Example002_HellUser\obj\Debug\net6.0\Example002_HellUser.AssemblyInfoInputs.cache
+C:\Users\lenak\Desktop\ИП\ПРОГРАММИРОВАНИЕ\Examlex\Example002_HellUser\obj\Debug\net6.0\Example002_HellUser.AssemblyInfo.cs
+C:\Users\lenak\Desktop\ИП\ПРОГРАММИРОВАНИЕ\Examlex\Example002_HellUser\obj\Debug\net6.0\Example002_HellUser.csproj.CoreCompileInputs.cache
+C:\Users\lenak\Desktop\ИП\ПРОГРАММИРОВАНИЕ\Examlex\Example002_HellUser\obj\Debug\net6.0\Example002_HellUser.dll
+C:\Users\lenak\Desktop\ИП\ПРОГРАММИРОВАНИЕ\Examlex\Example002_HellUser\obj\Debug\net6.0\refint\Example002_HellUser.dll
+C:\Users\lenak\Desktop\ИП\ПРОГРАММИРОВАНИЕ\Examlex\Example002_HellUser\obj\Debug\net6.0\Example002_HellUser.pdb
+C:\Users\lenak\Desktop\ИП\ПРОГРАММИРОВАНИЕ\Examlex\Example002_HellUser\obj\Debug\net6.0\Example002_HellUser.genruntimeconfig.cache
+C:\Users\lenak\Desktop\ИП\ПРОГРАММИРОВАНИЕ\Examlex\Example002_HellUser\obj\Debug\net6.0\ref\Example002_HellUser.dll
